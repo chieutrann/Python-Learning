@@ -1,3 +1,3 @@
 # Python-Learning
 
-<p>These are small challenges for OOP practices in python </p> 
+<p>These are small challenges for my journey to practise python </p> 
